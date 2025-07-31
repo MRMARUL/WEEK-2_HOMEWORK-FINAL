@@ -82,6 +82,8 @@ nav ul li a {
   font-size: 16px;
   line-height: 2;
   letter-spacing: 2%;
+}
+nav ul li a:hover {
   cursor: pointer;
 }
 .webstudio-web {
